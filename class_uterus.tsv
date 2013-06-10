@@ -1,0 +1,499 @@
+Sample is 7504_MIDDLE
+Class	Number_16s
+Sample is 7504_MIDDLE
+Class	Number_16s
+
+Sample is 7504_LOWER
+Class	Number_16s
+Sample is 7504_LOWER
+Class	Number_16s
+
+Sample is 7518_CB
+Class	Number_16s
+Sample is 7518_CB
+Class	Number_16s
+
+Sample is 7518_UPPER
+Class	Number_16s
+Sample is 7518_UPPER
+Class	Number_16s
+
+Sample is 7632_UPPER
+Class	Number_16s
+Sample is 7632_UPPER
+Class	Number_16s
+
+Sample is 7824_LOWER
+Class	Number_16s
+Sample is 7824_LOWER
+Class	Number_16s
+
+Sample is 7632_CS
+Class	Number_16s
+Sample is 7632_CS
+Class	Number_16s
+
+Sample is 7632_ELS
+Class	Number_16s
+Sample is 7632_ELS
+Class	Number_16s
+
+Sample is 7742_ELS
+Class	Number_16s
+Sample is 7742_ELS
+Class	Number_16s
+
+Sample is 7742_EMS
+Class	Number_16s
+Sample is 7742_EMS
+Class	Number_16s
+
+Sample is 7751_EMS
+Class	Number_16s
+Sample is 7751_EMS
+Class	Number_16s
+Sphingobacteria	66
+Clostridia	148
+Fusobacteria	205
+Deltaproteobacteria	327
+Flavobacteria	540
+Bacilli	672
+Actinobacteria	1050
+Betaproteobacteria	1574
+Alphaproteobacteria	1645
+Cyanobacteria	2356
+Gammaproteobacteria	3381
+
+Sample is 7751_EUS
+Class	Number_16s
+Sample is 7751_EUS
+Class	Number_16s
+Epsilonproteobacteria	19
+Deltaproteobacteria	22
+Fusobacteria	27
+Bacteroidia	32
+Clostridia	179
+Cyanobacteria	280
+Sphingobacteria	335
+Bacilli	365
+Flavobacteria	387
+Alphaproteobacteria	879
+Actinobacteria	1139
+Betaproteobacteria	2967
+Gammaproteobacteria	5308
+
+Sample is 7824_ELS
+Class	Number_16s
+Sample is 7824_ELS
+Class	Number_16s
+Deltaproteobacteria	12
+Bacteroidia	15
+Acidobacteria	17
+Epsilonproteobacteria	22
+Cyanobacteria	35
+Sphingobacteria	49
+Bacilli	70
+Actinobacteria	116
+Alphaproteobacteria	163
+Flavobacteria	209
+Betaproteobacteria	997
+Gammaproteobacteria	8655
+
+Sample is 7824_CS
+Class	Number_16s
+Sample is 7824_CS
+Class	Number_16s
+Clostridia	13
+Epsilonproteobacteria	14
+Sphingobacteria	30
+Cyanobacteria	38
+Alphaproteobacteria	82
+Flavobacteria	142
+Actinobacteria	221
+Betaproteobacteria	683
+Bacilli	2674
+Gammaproteobacteria	3847
+
+Sample is 7824_EMS
+Class	Number_16s
+Sample is 7824_EMS
+Class	Number_16s
+Bacteroidia	25
+Clostridia	34
+Sphingobacteria	46
+Cyanobacteria	48
+Bacilli	170
+Flavobacteria	250
+Alphaproteobacteria	313
+Actinobacteria	331
+Betaproteobacteria	729
+Gammaproteobacteria	6182
+
+Sample is 7878_CS
+Class	Number_16s
+Sample is 7878_CS
+Class	Number_16s
+Acidobacteria	13
+Cyanobacteria	33
+Clostridia	48
+Erysipelotrichi	58
+Deltaproteobacteria	98
+Epsilonproteobacteria	115
+Bacteroidia	254
+Flavobacteria	295
+Deinococci	353
+Sphingobacteria	371
+Actinobacteria	962
+Betaproteobacteria	1072
+Bacilli	1096
+Alphaproteobacteria	1109
+Gammaproteobacteria	3611
+
+Sample is 7824_EUS
+Class	Number_16s
+Sample is 7824_EUS
+Class	Number_16s
+Clostridia	14
+Sphingobacteria	16
+Cyanobacteria	57
+Bacilli	172
+Epsilonproteobacteria	265
+Flavobacteria	275
+Actinobacteria	279
+Alphaproteobacteria	466
+Betaproteobacteria	1303
+Gammaproteobacteria	12422
+
+Sample is 7878_ELS
+Class	Number_16s
+Sample is 7878_ELS
+Class	Number_16s
+Acidobacteria	15
+Erysipelotrichi	18
+Bacteroidia	53
+Deltaproteobacteria	88
+Sphingobacteria	147
+Cyanobacteria	276
+Clostridia	327
+Alphaproteobacteria	551
+Bacilli	819
+Flavobacteria	930
+Actinobacteria	1042
+Betaproteobacteria	2284
+Gammaproteobacteria	9612
+
+Sample is 7878_EUS
+Class	Number_16s
+Sample is 7878_EUS
+Class	Number_16s
+Clostridia	35
+Deltaproteobacteria	51
+Sphingobacteria	340
+Actinobacteria	469
+Bacilli	568
+Flavobacteria	623
+Cyanobacteria	758
+Alphaproteobacteria	954
+Betaproteobacteria	1593
+Gammaproteobacteria	4390
+
+Sample is 7878_EMS
+Class	Number_16s
+Sample is 7878_EMS
+Class	Number_16s
+Verrucomicrobiae	12
+Acidobacteria	25
+Erysipelotrichi	30
+Bacteroidia	30
+Sphingobacteria	115
+Deltaproteobacteria	154
+Clostridia	172
+Flavobacteria	194
+Cyanobacteria	377
+Bacilli	555
+Alphaproteobacteria	625
+Actinobacteria	777
+Betaproteobacteria	844
+Gammaproteobacteria	3987
+
+Sample is 7916_ELS
+Class	Number_16s
+Sample is 7916_ELS
+Class	Number_16s
+Holophagae	32
+Gemmatimonadetes	33
+Acidobacteria	85
+Clostridia	98
+Cyanobacteria	142
+Deltaproteobacteria	383
+Flavobacteria	387
+Bacilli	583
+Sphingobacteria	648
+Alphaproteobacteria	889
+Actinobacteria	1223
+Betaproteobacteria	3154
+Gammaproteobacteria	4533
+
+Sample is 7916_CS
+Class	Number_16s
+Sample is 7916_CS
+Class	Number_16s
+Caldilineae	18
+Cyanobacteria	47
+Clostridia	71
+Bacteroidia	109
+Flavobacteria	154
+Deltaproteobacteria	160
+Sphingobacteria	298
+Bacilli	868
+Alphaproteobacteria	1016
+Actinobacteria	1646
+Betaproteobacteria	2938
+Gammaproteobacteria	3716
+
+Sample is 7916_EMS
+Class	Number_16s
+Sample is 7916_EMS
+Class	Number_16s
+Fusobacteria	40
+Acidobacteria	96
+Deltaproteobacteria	97
+Erysipelotrichi	109
+Bacteroidia	184
+Sphingobacteria	286
+Flavobacteria	315
+Cyanobacteria	447
+Alphaproteobacteria	1001
+Bacilli	1067
+Betaproteobacteria	1480
+Actinobacteria	1989
+Clostridia	2390
+Gammaproteobacteria	2994
+
+Sample is 7916_EUS
+Class	Number_16s
+Sample is 7916_EUS
+Class	Number_16s
+Acidobacteria	55
+Thermomicrobia	84
+Deltaproteobacteria	166
+Fusobacteria	184
+Cyanobacteria	191
+Bacteroidia	211
+Sphingobacteria	390
+Bacilli	506
+Flavobacteria	680
+Clostridia	872
+Alphaproteobacteria	874
+Betaproteobacteria	1808
+Actinobacteria	2024
+Gammaproteobacteria	2455
+
+Sample is 7921_ELS
+Class	Number_16s
+Sample is 7921_ELS
+Class	Number_16s
+Verrucomicrobiae	25
+Acidobacteria	61
+Deltaproteobacteria	120
+Clostridia	242
+Flavobacteria	258
+Sphingobacteria	369
+Actinobacteria	381
+Alphaproteobacteria	674
+Bacilli	732
+Cyanobacteria	1874
+Betaproteobacteria	3111
+Gammaproteobacteria	8053
+
+Sample is 7921_CS
+Class	Number_16s
+Sample is 7921_CS
+Class	Number_16s
+Epsilonproteobacteria	16
+Bacteroidia	26
+Nitrospira	33
+Clostridia	83
+Deltaproteobacteria	117
+Sphingobacteria	122
+Flavobacteria	125
+Alphaproteobacteria	440
+Actinobacteria	519
+Bacilli	711
+Cyanobacteria	1164
+Betaproteobacteria	2663
+Gammaproteobacteria	11758
+
+Sample is 7921_EMS
+Class	Number_16s
+Sample is 7921_EMS
+Class	Number_16s
+Spirochaetes	41
+Bacteroidia	41
+Acidobacteria	61
+Gemmatimonadetes	67
+Sphingobacteria	189
+Cyanobacteria	272
+Clostridia	286
+Flavobacteria	496
+Deltaproteobacteria	515
+Bacilli	1127
+Actinobacteria	1557
+Alphaproteobacteria	2835
+Betaproteobacteria	3094
+Gammaproteobacteria	5571
+
+Sample is 8043_CS
+Class	Number_16s
+Sample is 8043_CS
+Class	Number_16s
+Holophagae	44
+Bacteroidia	48
+Fusobacteria	49
+Deltaproteobacteria	76
+Clostridia	163
+Sphingobacteria	253
+Bacilli	323
+Flavobacteria	532
+Actinobacteria	625
+Alphaproteobacteria	688
+Cyanobacteria	1346
+Betaproteobacteria	1496
+Gammaproteobacteria	5863
+
+Sample is 7921_EUS
+Class	Number_16s
+Sample is 7921_EUS
+Class	Number_16s
+Deltaproteobacteria	52
+Fusobacteria	84
+Epsilonproteobacteria	101
+Clostridia	125
+Sphingobacteria	154
+Actinobacteria	348
+Bacilli	480
+Alphaproteobacteria	728
+Flavobacteria	896
+Bacteroidia	1047
+Betaproteobacteria	1441
+Cyanobacteria	1817
+Gammaproteobacteria	4193
+
+Sample is 8043_ELS
+Class	Number_16s
+Sample is 8043_ELS
+Class	Number_16s
+Deltaproteobacteria	11
+Bacteroidia	16
+Fusobacteria	20
+Sphingobacteria	35
+Clostridia	59
+Cyanobacteria	126
+Flavobacteria	167
+Alphaproteobacteria	198
+Actinobacteria	224
+Bacilli	315
+Betaproteobacteria	1315
+Gammaproteobacteria	9907
+
+Sample is 8043_EUS
+Class	Number_16s
+Sample is 8043_EUS
+Class	Number_16s
+Acidobacteria	11
+Deltaproteobacteria	23
+Bacteroidia	26
+Sphingobacteria	136
+Clostridia	152
+Bacilli	329
+Actinobacteria	558
+Cyanobacteria	733
+Alphaproteobacteria	933
+Flavobacteria	1399
+Betaproteobacteria	2874
+Gammaproteobacteria	11018
+
+Sample is 8043_EMS
+Class	Number_16s
+Sample is 8043_EMS
+Class	Number_16s
+Deltaproteobacteria	12
+Cyanobacteria	16
+Bacilli	17
+Acidobacteria	20
+Clostridia	28
+Sphingobacteria	29
+Actinobacteria	160
+Flavobacteria	339
+Alphaproteobacteria	392
+Betaproteobacteria	1191
+Gammaproteobacteria	9692
+
+Sample is 8249_CS
+Class	Number_16s
+Sample is 8249_CS
+Class	Number_16s
+Anaerolineae	11
+Deltaproteobacteria	93
+Bacilli	152
+Clostridia	200
+Flavobacteria	238
+Sphingobacteria	481
+Alphaproteobacteria	932
+Actinobacteria	1493
+Cyanobacteria	1576
+Gammaproteobacteria	2658
+Betaproteobacteria	2806
+
+Sample is 8249_ELS
+Class	Number_16s
+Sample is 8249_ELS
+Class	Number_16s
+Bacteroidia	80
+Deltaproteobacteria	100
+Clostridia	217
+Flavobacteria	315
+Bacilli	366
+Sphingobacteria	381
+Alphaproteobacteria	525
+Cyanobacteria	675
+Actinobacteria	782
+Betaproteobacteria	2492
+Gammaproteobacteria	2695
+
+Sample is 8249_EMS
+Class	Number_16s
+Sample is 8249_EMS
+Class	Number_16s
+Spirochaetes	30
+Deltaproteobacteria	67
+Fusobacteria	100
+Sphingobacteria	120
+Clostridia	158
+Flavobacteria	268
+Cyanobacteria	454
+Bacilli	517
+Alphaproteobacteria	646
+Actinobacteria	1211
+Betaproteobacteria	2138
+Gammaproteobacteria	3220
+
+Sample is 8249_EUS
+Class	Number_16s
+Sample is 8249_EUS
+Class	Number_16s
+Planctomycetacia	15
+Holophagae	25
+Deltaproteobacteria	27
+Bacteroidia	61
+Sphingobacteria	62
+Fusobacteria	67
+Flavobacteria	108
+Cyanobacteria	177
+Bacilli	433
+Clostridia	461
+Alphaproteobacteria	583
+Actinobacteria	763
+Gammaproteobacteria	764
+Betaproteobacteria	1083
+

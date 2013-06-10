@@ -1,0 +1,721 @@
+Sample is 7504_MIDDLE
+Order	Number_16s
+Sample is 7504_MIDDLE
+Order	Number_16s
+
+Sample is 7504_LOWER
+Order	Number_16s
+Sample is 7504_LOWER
+Order	Number_16s
+
+Sample is 7518_CB
+Order	Number_16s
+Sample is 7518_CB
+Order	Number_16s
+
+Sample is 7518_UPPER
+Order	Number_16s
+Sample is 7518_UPPER
+Order	Number_16s
+
+Sample is 7632_UPPER
+Order	Number_16s
+Sample is 7632_UPPER
+Order	Number_16s
+
+Sample is 7824_LOWER
+Order	Number_16s
+Sample is 7824_LOWER
+Order	Number_16s
+
+Sample is 7632_CS
+Order	Number_16s
+Sample is 7632_CS
+Order	Number_16s
+
+Sample is 7632_ELS
+Order	Number_16s
+Sample is 7632_ELS
+Order	Number_16s
+
+Sample is 7742_ELS
+Order	Number_16s
+Sample is 7742_ELS
+Order	Number_16s
+
+Sample is 7742_EMS
+Order	Number_16s
+Sample is 7742_EMS
+Order	Number_16s
+
+Sample is 7751_EMS
+Order	Number_16s
+Sample is 7751_EMS
+Order	Number_16s
+Rhodobacterales	60
+Pasteurellales	64
+Sphingobacteriales	66
+Thiotrichales	84
+Xanthomonadales	94
+Rhodospirillales	108
+Bacillales	146
+Clostridiales	148
+Bdellovibrionales	175
+Fusobacteriales	205
+Myxococcales	208
+Methylophilales	241
+Caulobacterales	356
+Sphingomonadales	445
+Lactobacillales	529
+Flavobacteriales	540
+Rhizobiales	784
+Solirubrobacterales	1050
+Burkholderiales	1162
+Actinomycetales	1162
+Pseudomonadales	1369
+Enterobacteriales	1710
+
+Sample is 7751_EUS
+Order	Number_16s
+Sample is 7751_EUS
+Order	Number_16s
+Rhodocyclales	13
+Campylobacterales	19
+Fusobacteriales	27
+Bacteroidales	32
+Neisseriales	35
+Myxococcales	40
+Methylophilales	52
+Legionellales	54
+Rhodobacterales	75
+Caulobacterales	131
+Lactobacillales	134
+Rhizobiales	267
+Clostridiales	278
+Sphingobacteriales	340
+Bacillales	356
+Flavobacteriales	387
+Sphingomonadales	389
+Xanthomonadales	422
+Enterobacteriales	838
+Solirubrobacterales	1137
+Actinomycetales	1323
+Burkholderiales	2156
+Pseudomonadales	3101
+
+Sample is 7824_ELS
+Order	Number_16s
+Sample is 7824_ELS
+Order	Number_16s
+Rhizobiales	13
+Rhodospirillales	14
+Bacteroidales	15
+Methylophilales	18
+Pasteurellales	19
+Caulobacterales	21
+Campylobacterales	22
+Rhodocyclales	25
+Lactobacillales	37
+Bacillales	46
+Sphingobacteriales	49
+Rhodobacterales	50
+Sphingomonadales	54
+Xanthomonadales	94
+Solirubrobacterales	116
+Actinomycetales	138
+Flavobacteriales	209
+Enterobacteriales	230
+Burkholderiales	916
+Pseudomonadales	8226
+
+Sample is 7824_CS
+Order	Number_16s
+Sample is 7824_CS
+Order	Number_16s
+Rhizobiales	13
+Clostridiales	14
+Campylobacterales	14
+Methylophilales	16
+Rhodobacterales	25
+Sphingobacteriales	33
+Xanthomonadales	35
+Sphingomonadales	38
+Bacillales	55
+Enterobacteriales	126
+Flavobacteriales	142
+Solirubrobacterales	221
+Actinomycetales	245
+Burkholderiales	647
+Lactobacillales	2648
+Pseudomonadales	3592
+
+Sample is 7824_EMS
+Order	Number_16s
+Sample is 7824_EMS
+Order	Number_16s
+Legionellales	11
+Rubrobacterales	14
+Alteromonadales	19
+Caulobacterales	26
+Rhodocyclales	28
+Bacteroidales	32
+Clostridiales	41
+Sphingomonadales	45
+Sphingobacteriales	51
+Bacillales	64
+Rhizobiales	71
+Pasteurellales	79
+Xanthomonadales	101
+Lactobacillales	125
+Rhodobacterales	154
+Flavobacteriales	250
+Solirubrobacterales	324
+Enterobacteriales	330
+Actinomycetales	398
+Burkholderiales	679
+Pseudomonadales	5332
+
+Sample is 7878_CS
+Order	Number_16s
+Sample is 7878_CS
+Order	Number_16s
+Caulobacterales	14
+Pasteurellales	15
+Xanthomonadales	48
+Erysipelotrichales	58
+Rubrobacterales	64
+Rhodocyclales	70
+Campylobacterales	115
+Sphingomonadales	162
+Bacteroidales	254
+Flavobacteriales	295
+Bacillales	302
+Deinococcales	353
+Rhizobiales	414
+Rhodobacterales	422
+Sphingobacteriales	425
+Enterobacteriales	739
+Solirubrobacterales	832
+Lactobacillales	835
+Burkholderiales	983
+Actinomycetales	1143
+Pseudomonadales	2104
+
+Sample is 7824_EUS
+Order	Number_16s
+Sample is 7824_EUS
+Order	Number_16s
+Hydrogenophilales	13
+Clostridiales	14
+Alteromonadales	14
+Rhodocyclales	15
+Sphingobacteriales	21
+Rhizobiales	46
+Methylophilales	50
+Rhodobacterales	71
+Rhodospirillales	101
+Lactobacillales	172
+Sphingomonadales	185
+Xanthomonadales	211
+Campylobacterales	265
+Flavobacteriales	275
+Solirubrobacterales	279
+Enterobacteriales	311
+Actinomycetales	320
+Burkholderiales	1202
+Pseudomonadales	11845
+
+Sample is 7878_ELS
+Order	Number_16s
+Sample is 7878_ELS
+Order	Number_16s
+Erysipelotrichales	18
+Bdellovibrionales	23
+Rhodospirillales	45
+Caulobacterales	48
+Bacteroidales	63
+Rhodobacterales	90
+Legionellales	96
+Myxococcales	97
+Rhodocyclales	101
+Sphingobacteriales	147
+Methylophilales	162
+Sphingomonadales	164
+Xanthomonadales	170
+Rhizobiales	186
+Lactobacillales	254
+Pasteurellales	267
+Clostridiales	335
+Bacillales	585
+Enterobacteriales	827
+Flavobacteriales	930
+Solirubrobacterales	1008
+Actinomycetales	1062
+Burkholderiales	1834
+Pseudomonadales	8209
+
+Sample is 7878_EUS
+Order	Number_16s
+Sample is 7878_EUS
+Order	Number_16s
+Bdellovibrionales	13
+Rhodospirillales	23
+Pasteurellales	23
+Legionellales	25
+Clostridiales	35
+Rhodocyclales	72
+Sphingomonadales	85
+Caulobacterales	100
+Xanthomonadales	118
+Methylophilales	166
+Bacillales	198
+Enterobacteriales	292
+Sphingobacteriales	367
+Lactobacillales	373
+Rhodobacterales	399
+Rhizobiales	407
+Solirubrobacterales	468
+Actinomycetales	512
+Flavobacteriales	623
+Burkholderiales	1154
+Pseudomonadales	3905
+
+Sample is 7878_EMS
+Order	Number_16s
+Sample is 7878_EMS
+Order	Number_16s
+Verrucomicrobiales	12
+Methylophilales	15
+Erysipelotrichales	30
+Bacteroidales	30
+Pasteurellales	46
+Rhodobacterales	52
+Rubrobacterales	76
+Sphingobacteriales	121
+Sphingomonadales	124
+Myxococcales	131
+Rhodospirillales	143
+Clostridiales	172
+Flavobacteriales	194
+Bacillales	289
+Lactobacillales	296
+Xanthomonadales	396
+Enterobacteriales	421
+Rhizobiales	439
+Solirubrobacterales	739
+Actinomycetales	819
+Burkholderiales	821
+Pseudomonadales	3043
+
+Sample is 7916_ELS
+Order	Number_16s
+Sample is 7916_ELS
+Order	Number_16s
+Holophagales	32
+Gemmatimonadales	33
+Oceanospirillales	63
+Myxococcales	79
+Methylophilales	81
+Clostridiales	86
+Legionellales	99
+Bacillales	178
+Sphingomonadales	184
+Rhodobacterales	270
+Rhizobiales	351
+Flavobacteriales	387
+Lactobacillales	405
+Sphingobacteriales	845
+Pasteurellales	900
+Pseudomonadales	1188
+Solirubrobacterales	1223
+Actinomycetales	1485
+Enterobacteriales	2089
+Burkholderiales	2401
+
+Sample is 7916_CS
+Order	Number_16s
+Sample is 7916_CS
+Order	Number_16s
+Caldilineales	18
+Oceanospirillales	78
+Rubrobacterales	102
+Bacteroidales	109
+Xanthomonadales	113
+Rhizobiales	114
+Clostridiales	135
+Sphingomonadales	165
+Myxococcales	198
+Rhodospirillales	204
+Flavobacteriales	220
+Rhodocyclales	224
+Lactobacillales	292
+Sphingobacteriales	306
+Pseudomonadales	323
+Hydrogenophilales	326
+Rhodobacterales	542
+Bacillales	825
+Enterobacteriales	1569
+Solirubrobacterales	1596
+Actinomycetales	1832
+Burkholderiales	2162
+
+Sample is 7916_EMS
+Order	Number_16s
+Sample is 7916_EMS
+Order	Number_16s
+Legionellales	28
+Hydrogenophilales	28
+Myxococcales	32
+Fusobacteriales	40
+Rhodocyclales	47
+Syntrophobacterales	48
+Oceanospirillales	49
+Pasteurellales	91
+Erysipelotrichales	109
+Rubrobacterales	144
+Rhodobacterales	159
+Rhodospirillales	180
+Bacteroidales	184
+Rhizobiales	193
+Sphingobacteriales	300
+Sphingomonadales	308
+Flavobacteriales	315
+Xanthomonadales	347
+Bacillales	369
+Lactobacillales	726
+Enterobacteriales	727
+Pseudomonadales	742
+Burkholderiales	1100
+Solirubrobacterales	1895
+Actinomycetales	2268
+Clostridiales	4203
+
+Sample is 7916_EUS
+Order	Number_16s
+Sample is 7916_EUS
+Order	Number_16s
+Pasteurellales	12
+Sphingomonadales	71
+Legionellales	95
+Xanthomonadales	132
+Rhodobacterales	162
+Fusobacteriales	184
+Bacillales	198
+Myxococcales	216
+Lactobacillales	308
+Bacteroidales	334
+Enterobacteriales	455
+Rhizobiales	475
+Sphingobacteriales	497
+Flavobacteriales	680
+Clostridiales	877
+Pseudomonadales	1273
+Burkholderiales	1694
+Solirubrobacterales	1994
+Actinomycetales	2037
+
+Sample is 7921_ELS
+Order	Number_16s
+Sample is 7921_ELS
+Order	Number_16s
+Verrucomicrobiales	25
+Pasteurellales	126
+Neisseriales	143
+Xanthomonadales	192
+Clostridiales	246
+Flavobacteriales	258
+Actinomycetales	287
+Lactobacillales	296
+Solirubrobacterales	334
+Sphingobacteriales	369
+Bacillales	488
+Rhizobiales	547
+Enterobacteriales	1008
+Burkholderiales	2660
+Pseudomonadales	6688
+
+Sample is 7921_CS
+Order	Number_16s
+Sample is 7921_CS
+Order	Number_16s
+Neisseriales	14
+Campylobacterales	16
+Bdellovibrionales	17
+Bacteroidales	26
+Rhodocyclales	33
+Nitrospirales	33
+Caulobacterales	59
+Rhodobacterales	60
+Sphingomonadales	64
+Bacillales	88
+Clostridiales	98
+Sphingobacteriales	125
+Myxococcales	128
+Flavobacteriales	153
+Xanthomonadales	193
+Rhizobiales	201
+Solirubrobacterales	519
+Actinomycetales	519
+Lactobacillales	632
+Enterobacteriales	661
+Burkholderiales	2464
+Pseudomonadales	10837
+
+Sample is 7921_EMS
+Order	Number_16s
+Sample is 7921_EMS
+Order	Number_16s
+Acidimicrobiales	30
+Thiotrichales	30
+Bacteroidales	41
+Spirochaetales	41
+Rhodobacterales	57
+Methylophilales	59
+Legionellales	65
+Gemmatimonadales	67
+Bacillales	79
+Caulobacterales	117
+Bdellovibrionales	176
+Rhodospirillales	188
+Sphingobacteriales	195
+Myxococcales	207
+Xanthomonadales	217
+Pasteurellales	324
+Clostridiales	379
+Flavobacteriales	496
+Sphingomonadales	677
+Enterobacteriales	752
+Lactobacillales	1064
+Solirubrobacterales	1464
+Rhizobiales	1468
+Actinomycetales	1626
+Burkholderiales	2660
+Pseudomonadales	4116
+
+Sample is 8043_CS
+Order	Number_16s
+Sample is 8043_CS
+Order	Number_16s
+Rhodocyclales	32
+Holophagales	44
+Bacteroidales	48
+Fusobacteriales	49
+Bdellovibrionales	49
+Myxococcales	63
+Xanthomonadales	72
+Bacillales	84
+Hydrogenophilales	110
+Sphingomonadales	117
+Caulobacterales	152
+Rhodobacterales	162
+Clostridiales	163
+Rhizobiales	195
+Lactobacillales	239
+Sphingobacteriales	255
+Flavobacteriales	532
+Solirubrobacterales	627
+Enterobacteriales	655
+Actinomycetales	731
+Burkholderiales	1244
+Pseudomonadales	4934
+
+Sample is 7921_EUS
+Order	Number_16s
+Sample is 7921_EUS
+Order	Number_16s
+Hydrogenophilales	16
+Myxococcales	26
+Methylophilales	38
+Caulobacterales	39
+Neisseriales	50
+Fusobacteriales	84
+Bacillales	86
+Campylobacterales	101
+Rhodobacterales	106
+Xanthomonadales	115
+Sphingomonadales	122
+Clostridiales	126
+Rhodospirillales	195
+Sphingobacteriales	195
+Rhizobiales	261
+Solirubrobacterales	348
+Actinomycetales	369
+Lactobacillales	400
+Flavobacteriales	896
+Bacteroidales	1047
+Enterobacteriales	1222
+Burkholderiales	1276
+Pseudomonadales	2750
+
+Sample is 8043_ELS
+Order	Number_16s
+Sample is 8043_ELS
+Order	Number_16s
+Rhodocyclales	15
+Oceanospirillales	15
+Bacteroidales	16
+Rhodospirillales	18
+Caulobacterales	19
+Fusobacteriales	20
+Rubrobacterales	24
+Clostridiales	33
+Myxococcales	33
+Sphingomonadales	35
+Rhodobacterales	44
+Rhizobiales	47
+Sphingobacteriales	48
+Chromatiales	54
+Xanthomonadales	73
+Bacillales	86
+Hydrogenophilales	134
+Enterobacteriales	160
+Flavobacteriales	167
+Solirubrobacterales	201
+Actinomycetales	237
+Lactobacillales	253
+Burkholderiales	1104
+Pseudomonadales	9438
+
+Sample is 8043_EUS
+Order	Number_16s
+Sample is 8043_EUS
+Order	Number_16s
+Legionellales	13
+Bacteroidales	26
+Rhodobacterales	32
+Rhodocyclales	35
+Caulobacterales	56
+Methylophilales	75
+Bacillales	86
+Sphingobacteriales	143
+Clostridiales	179
+Enterobacteriales	188
+Lactobacillales	261
+Xanthomonadales	311
+Rhizobiales	323
+Sphingomonadales	497
+Solirubrobacterales	558
+Actinomycetales	648
+Flavobacteriales	1399
+Burkholderiales	2707
+Pseudomonadales	10461
+
+Sample is 8043_EMS
+Order	Number_16s
+Sample is 8043_EMS
+Order	Number_16s
+Bacillales	12
+Rhodocyclales	20
+Chromatiales	27
+Sphingobacteriales	31
+Caulobacterales	34
+Methylophilales	37
+Clostridiales	48
+Xanthomonadales	58
+Rhodobacterales	61
+Sphingomonadales	74
+Solirubrobacterales	145
+Actinomycetales	155
+Rhizobiales	196
+Flavobacteriales	339
+Enterobacteriales	405
+Burkholderiales	1088
+Pseudomonadales	9175
+
+Sample is 8249_CS
+Order	Number_16s
+Sample is 8249_CS
+Order	Number_16s
+Anaerolineales	11
+Desulfuromonadales	18
+Sphingomonadales	91
+Caulobacterales	114
+Myxococcales	134
+Bacillales	159
+Clostridiales	200
+Xanthomonadales	212
+Flavobacteriales	238
+Rhizobiales	578
+Sphingobacteriales	785
+Pseudomonadales	1021
+Solirubrobacterales	1289
+Actinomycetales	1289
+Enterobacteriales	1421
+Burkholderiales	2206
+
+Sample is 8249_ELS
+Order	Number_16s
+Sample is 8249_ELS
+Order	Number_16s
+Rickettsiales	75
+Bacteroidales	82
+Rhodobacterales	88
+Sphingomonadales	113
+Methylophilales	134
+Pseudomonadales	201
+Rhizobiales	217
+Flavobacteriales	315
+Rhodocyclales	331
+Lactobacillales	364
+Clostridiales	374
+Sphingobacteriales	408
+Xanthomonadales	612
+Solirubrobacterales	783
+Actinomycetales	812
+Enterobacteriales	1730
+Burkholderiales	2011
+
+Sample is 8249_EMS
+Order	Number_16s
+Sample is 8249_EMS
+Order	Number_16s
+Aeromonadales	14
+Spirochaetales	30
+Bdellovibrionales	31
+Caulobacterales	46
+Myxococcales	59
+Rhodocyclales	79
+Rhodobacterales	87
+Xanthomonadales	96
+Fusobacteriales	100
+Rhodospirillales	121
+Sphingobacteriales	132
+Bacillales	142
+Clostridiales	209
+Flavobacteriales	268
+Lactobacillales	375
+Rhizobiales	472
+Solirubrobacterales	1211
+Actinomycetales	1219
+Pseudomonadales	1538
+Enterobacteriales	1557
+Burkholderiales	1914
+
+Sample is 8249_EUS
+Order	Number_16s
+Sample is 8249_EUS
+Order	Number_16s
+Planctomycetales	15
+Xanthomonadales	16
+Myxococcales	24
+Holophagales	25
+Rhodobacterales	51
+Bacteroidales	63
+Fusobacteriales	67
+Sphingobacteriales	74
+Sphingomonadales	88
+Rhodospirillales	94
+Caulobacterales	94
+Flavobacteriales	108
+Bacillales	126
+Coriobacteriales	182
+Neisseriales	193
+Rhizobiales	252
+Lactobacillales	309
+Enterobacteriales	372
+Pseudomonadales	374
+Clostridiales	461
+Solirubrobacterales	656
+Actinomycetales	702
+Burkholderiales	760
+

@@ -1,0 +1,6 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+open I, "regions_merged_uterus16s.csv" or die "Can't open the csv file: $!\n";

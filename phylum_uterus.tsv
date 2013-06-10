@@ -1,0 +1,379 @@
+Sample is 7504_MIDDLE
+Phylum	Number_16s
+Sample is 7504_MIDDLE
+Phylum	Number_16s
+
+Sample is 7504_LOWER
+Phylum	Number_16s
+Sample is 7504_LOWER
+Phylum	Number_16s
+
+Sample is 7518_CB
+Phylum	Number_16s
+Sample is 7518_CB
+Phylum	Number_16s
+
+Sample is 7518_UPPER
+Phylum	Number_16s
+Sample is 7518_UPPER
+Phylum	Number_16s
+
+Sample is 7632_UPPER
+Phylum	Number_16s
+Sample is 7632_UPPER
+Phylum	Number_16s
+
+Sample is 7824_LOWER
+Phylum	Number_16s
+Sample is 7824_LOWER
+Phylum	Number_16s
+
+Sample is 7632_CS
+Phylum	Number_16s
+Sample is 7632_CS
+Phylum	Number_16s
+
+Sample is 7632_ELS
+Phylum	Number_16s
+Sample is 7632_ELS
+Phylum	Number_16s
+
+Sample is 7742_ELS
+Phylum	Number_16s
+Sample is 7742_ELS
+Phylum	Number_16s
+
+Sample is 7742_EMS
+Phylum	Number_16s
+Sample is 7742_EMS
+Phylum	Number_16s
+
+Sample is 7751_EMS
+Phylum	Number_16s
+Sample is 7751_EMS
+Phylum	Number_16s
+OD1	175
+Fusobacteria	205
+Bacteroidetes	606
+Firmicutes	818
+Actinobacteria	1050
+Cyanobacteria	2357
+Proteobacteria	7004
+
+Sample is 7751_EUS
+Phylum	Number_16s
+Sample is 7751_EUS
+Phylum	Number_16s
+Fusobacteria	27
+TM7	29
+OD1	63
+Cyanobacteria	280
+Firmicutes	544
+Bacteroidetes	852
+Actinobacteria	1138
+Proteobacteria	8828
+
+Sample is 7824_ELS
+Phylum	Number_16s
+Sample is 7824_ELS
+Phylum	Number_16s
+Acidobacteria	17
+OD1	22
+Cyanobacteria	35
+Firmicutes	78
+Actinobacteria	116
+Bacteroidetes	295
+Proteobacteria	9834
+
+Sample is 7824_CS
+Phylum	Number_16s
+Sample is 7824_CS
+Phylum	Number_16s
+OD1	11
+Cyanobacteria	40
+Bacteroidetes	182
+Actinobacteria	221
+Firmicutes	2687
+Proteobacteria	4629
+
+Sample is 7824_EMS
+Phylum	Number_16s
+Sample is 7824_EMS
+Phylum	Number_16s
+Cyanobacteria	48
+Firmicutes	211
+Actinobacteria	331
+Bacteroidetes	405
+Proteobacteria	7123
+
+Sample is 7878_CS
+Phylum	Number_16s
+Sample is 7878_CS
+Phylum	Number_16s
+OD1	26
+Cyanobacteria	33
+Acidobacteria	43
+TM7	97
+Deinococcus-Thermus	353
+Actinobacteria	913
+Firmicutes	1279
+Bacteroidetes	1324
+Proteobacteria	5812
+
+Sample is 7824_EUS
+Phylum	Number_16s
+Sample is 7824_EUS
+Phylum	Number_16s
+Cyanobacteria	57
+Firmicutes	186
+Actinobacteria	279
+Bacteroidetes	307
+Proteobacteria	14503
+
+Sample is 7878_ELS
+Phylum	Number_16s
+Sample is 7878_ELS
+Phylum	Number_16s
+Acidobacteria	15
+TM7	24
+Cyanobacteria	276
+Actinobacteria	1025
+Firmicutes	1164
+Bacteroidetes	1334
+Proteobacteria	12518
+
+Sample is 7878_EUS
+Phylum	Number_16s
+Sample is 7878_EUS
+Phylum	Number_16s
+TM7	20
+OD1	106
+Actinobacteria	469
+Firmicutes	594
+Cyanobacteria	776
+Bacteroidetes	1301
+Proteobacteria	6870
+
+Sample is 7878_EMS
+Phylum	Number_16s
+Sample is 7878_EMS
+Phylum	Number_16s
+Verrucomicrobia	12
+Acidobacteria	35
+OD1	63
+Cyanobacteria	378
+Bacteroidetes	603
+Firmicutes	763
+Actinobacteria	777
+Proteobacteria	5737
+
+Sample is 7916_ELS
+Phylum	Number_16s
+Sample is 7916_ELS
+Phylum	Number_16s
+Chloroflexi	11
+Gemmatimonadetes	33
+Cyanobacteria	142
+Acidobacteria	211
+OD1	330
+Firmicutes	727
+Actinobacteria	1223
+Bacteroidetes	1819
+Proteobacteria	8192
+
+Sample is 7916_CS
+Phylum	Number_16s
+Sample is 7916_CS
+Phylum	Number_16s
+Chloroflexi	22
+Cyanobacteria	47
+Bacteroidetes	599
+Firmicutes	943
+Actinobacteria	1646
+Proteobacteria	6918
+
+Sample is 7916_EMS
+Phylum	Number_16s
+Sample is 7916_EMS
+Phylum	Number_16s
+Fusobacteria	40
+OD1	85
+Acidobacteria	96
+Cyanobacteria	447
+Bacteroidetes	985
+Actinobacteria	1978
+Firmicutes	3601
+Proteobacteria	4714
+
+Sample is 7916_EUS
+Phylum	Number_16s
+Sample is 7916_EUS
+Phylum	Number_16s
+OD1	40
+Chloroflexi	43
+Acidobacteria	110
+Fusobacteria	184
+Cyanobacteria	205
+Firmicutes	1378
+Bacteroidetes	1503
+Actinobacteria	2009
+Proteobacteria	5004
+
+Sample is 7921_ELS
+Phylum	Number_16s
+Sample is 7921_ELS
+Phylum	Number_16s
+Verrucomicrobia	25
+Acidobacteria	61
+Actinobacteria	345
+Bacteroidetes	969
+Firmicutes	974
+Cyanobacteria	1874
+Proteobacteria	11509
+
+Sample is 7921_CS
+Phylum	Number_16s
+Sample is 7921_CS
+Phylum	Number_16s
+OD1	14
+Nitrospira	33
+TM7	34
+Bacteroidetes	507
+Actinobacteria	519
+Firmicutes	795
+Cyanobacteria	1194
+Proteobacteria	15013
+
+Sample is 7921_EMS
+Phylum	Number_16s
+Sample is 7921_EMS
+Phylum	Number_16s
+Spirochaetes	41
+TM7	64
+Gemmatimonadetes	67
+OD1	149
+Cyanobacteria	299
+Acidobacteria	466
+Bacteroidetes	1188
+Firmicutes	1412
+Actinobacteria	1503
+Proteobacteria	11496
+
+Sample is 8043_CS
+Phylum	Number_16s
+Sample is 8043_CS
+Phylum	Number_16s
+OD1	39
+Acidobacteria	44
+Fusobacteria	49
+TM7	127
+Firmicutes	488
+Actinobacteria	625
+Bacteroidetes	1079
+Cyanobacteria	1347
+Proteobacteria	8136
+
+Sample is 7921_EUS
+Phylum	Number_16s
+Sample is 7921_EUS
+Phylum	Number_16s
+TM7	33
+OD1	43
+Fusobacteria	84
+Actinobacteria	348
+Firmicutes	605
+Cyanobacteria	1829
+Bacteroidetes	2123
+Proteobacteria	6573
+
+Sample is 8043_ELS
+Phylum	Number_16s
+Sample is 8043_ELS
+Phylum	Number_16s
+OD1	12
+Fusobacteria	20
+TM7	28
+Cyanobacteria	126
+Actinobacteria	221
+Bacteroidetes	238
+Firmicutes	357
+Proteobacteria	11314
+
+Sample is 8043_EUS
+Phylum	Number_16s
+Sample is 8043_EUS
+Phylum	Number_16s
+TM7	24
+Acidobacteria	44
+OD1	49
+Firmicutes	504
+Actinobacteria	558
+Cyanobacteria	734
+Bacteroidetes	1849
+Proteobacteria	15211
+
+Sample is 8043_EMS
+Phylum	Number_16s
+Sample is 8043_EMS
+Phylum	Number_16s
+Cyanobacteria	17
+Acidobacteria	20
+OD1	29
+Firmicutes	45
+Actinobacteria	152
+Bacteroidetes	444
+Proteobacteria	11259
+
+Sample is 8249_CS
+Phylum	Number_16s
+Sample is 8249_CS
+Phylum	Number_16s
+Chloroflexi	11
+OD1	28
+SR1	58
+TM7	94
+Firmicutes	511
+Actinobacteria	1391
+Cyanobacteria	1595
+Bacteroidetes	1797
+Proteobacteria	5888
+
+Sample is 8249_ELS
+Phylum	Number_16s
+Sample is 8249_ELS
+Phylum	Number_16s
+OD1	95
+Firmicutes	584
+Cyanobacteria	689
+Actinobacteria	782
+Bacteroidetes	1544
+Proteobacteria	5883
+
+Sample is 8249_EMS
+Phylum	Number_16s
+Sample is 8249_EMS
+Phylum	Number_16s
+Spirochaetes	30
+OD1	51
+Fusobacteria	100
+Cyanobacteria	454
+Bacteroidetes	576
+Firmicutes	713
+Actinobacteria	1211
+Proteobacteria	6028
+
+Sample is 8249_EUS
+Phylum	Number_16s
+Sample is 8249_EUS
+Phylum	Number_16s
+Planctomycetes	15
+OP10	21
+Acidobacteria	32
+OD1	50
+Fusobacteria	67
+Cyanobacteria	182
+Bacteroidetes	381
+Actinobacteria	755
+Firmicutes	924
+Proteobacteria	2328
+

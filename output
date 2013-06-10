@@ -1,0 +1,2 @@
+Global symbol "$ws_g" requires explicit package name at format_csv.pl line 81.
+Execution of format_csv.pl aborted due to compilation errors.
